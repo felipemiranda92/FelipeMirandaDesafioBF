@@ -9,3 +9,4 @@ import Foundation
 
 print("Hello, World!")
 
+print("Adicionando informações na tela de login")
