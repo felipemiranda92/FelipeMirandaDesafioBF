@@ -7,5 +7,7 @@
 
 import Foundation
 
+print("Iniciando a tela de cadastro")
 
+print("Colocando elementos necessários para funcionamento da tela de cadastro")
 
