@@ -13,3 +13,5 @@ print("Colocando elementos necessários para funcionamento da tela de cadastro")
 
 print("Adicionando novos elementos e testando novas funcionalidades")
 
+print("Testando outras funcionalidades")
+
